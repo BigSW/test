@@ -40,7 +40,7 @@ public class serializeDemo {
 
 		objectOutputStream.writeObject(user);
 		objectOutputStream.flush();
-		objectOutputStream.flush();
+		outputStream.flush();
 		outputStream.close();
 	}
 }

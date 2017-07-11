@@ -7,7 +7,7 @@ package com.test.sort;
 public class Clum {
 	
 	public static void main(String[] args) {
-		double start =8.00;
+		double start =10.00;
 		double total = 0.00;
 		
 	for(int i=1;i<30;i++){

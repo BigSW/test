@@ -7,7 +7,7 @@ import java.util.Map.Entry;
 public class StaticTest {
 	public static HashMap<String, String> map;
 	static{
-		 map = new HashMap<>();
+		 map = new HashMap<String, String>();
 		map.put("0", "0");
 	}
 	public static void main(String[] args) {

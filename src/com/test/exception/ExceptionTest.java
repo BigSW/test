@@ -73,7 +73,7 @@ public class ExceptionTest {
 	}
 
 	public static void main(String[] args) {
-		ExceptionTest.print();
+		System.out.println(ExceptionTest.print());
 		ExceptionTest testException1 = new ExceptionTest();
 		try {
 			testException1.testEx();

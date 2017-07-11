@@ -1,4 +1,4 @@
-package com.test.sort;
+package com.core.sort;
 
 public class SortDemo {
 	public static void main(String[] args) {

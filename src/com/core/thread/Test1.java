@@ -1,4 +1,4 @@
-package com.test.thread;
+package com.core.thread;
 
 public class Test1 extends Thread {
 	private String name;

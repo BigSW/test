@@ -1,4 +1,4 @@
-package join;
+package com.core.thread_join;
 
 public class JoinTest extends Thread {
 	private String name;

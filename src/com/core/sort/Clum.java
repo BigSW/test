@@ -1,4 +1,4 @@
-package com.test.sort;
+package com.core.sort;
 
 /**
  * @author sw

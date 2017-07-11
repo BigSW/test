@@ -1,4 +1,4 @@
-package com.test.getdata;
+package com.core.getdata;
 
 import java.util.HashMap;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package com.test.getdata;
+package com.core.getdata;
 
 public class CloneTest implements Cloneable {
 	private String name;

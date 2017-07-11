@@ -1,4 +1,4 @@
-package com.test.exception;
+package com.core.exception;
 
 public class ExceptionTest {
 

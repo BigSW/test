@@ -1,4 +1,4 @@
-package com.test.thread;
+package com.core.thread;
 
 import javax.swing.plaf.SliderUI;
 

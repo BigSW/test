@@ -1,4 +1,4 @@
-package com.test.thread;
+package com.core.thread;
 
 public class PrintABCTest implements Runnable {
 	private Object preVal;
